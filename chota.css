@@ -1,0 +1,15 @@
+#image1{
+    height: 500px;
+    width: 300px;
+    border: 5px solid black;
+    margin-left: 200px;
+}
+#image2{
+    height: 500px;
+    width: 900px;
+    border: 5px solid black;
+}
+h1{
+    position: relative;
+    left: 800px;
+}
